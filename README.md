@@ -6,12 +6,16 @@ This project uses the YOLOv8 object detection model to recognize Cambodian bankn
 
 ```
 currency_detection_yolov8/
-├── data/               # Dataset (images + labels)
-├── notebooks/          # Colab training notebook
-├── predictions/        # Model outputs and test images
-├── runs/               # YOLOv8 run artifacts
-├── scripts/            # Any custom scripts (optional)
+├── data/                # Dataset (images + labels)
+├── notebooks/           # Colab training notebook
+├── predictions/         # Model outputs and test images
+├── runs/                # YOLOv8 run artifacts
+├── scripts/             # Any custom scripts (optional)
+├── test_images_upload/  # Stored upload test images 
 ├── README.md
+├── requirements.txt
+├── yolov11n.pt
+├── yolov8n.pt
 └── requirements.txt
 ```
 
