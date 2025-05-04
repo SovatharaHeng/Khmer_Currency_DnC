@@ -2,23 +2,6 @@
 
 This project uses the YOLOv8 object detection model to recognize Cambodian banknotes from images. The model is trained on labeled datasets of 7 denominations: 100 Riel, 500 Riel, 1000 Riel, 5000 Riel, 10000 Riel, 20000 Riel, and 50000 Riel.
 
-## 📂 Folder Structure
-
-```
-currency_detection_yolov8/
-├── data/                # Dataset (images + labels)
-├── notebooks/           # Colab training notebook
-├── predictions/         # Model outputs and test images
-├── runs/                # YOLOv8 run artifacts
-├── scripts/             # Any custom scripts (optional)
-├── test_images_upload/  # Stored upload test images 
-├── README.md
-├── requirements.txt
-├── yolov11n.pt
-├── yolov8n.pt
-└── requirements.txt
-```
-
 ## 🧪 Model Training (YOLOv8)
 
 You can use the Colab notebook under `notebooks/` to:
