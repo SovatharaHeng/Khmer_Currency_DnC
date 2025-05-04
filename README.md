@@ -45,5 +45,5 @@ Model achieved high accuracy with mAP50 > 0.95 on validation images.
 
 ## 🧊 Credits
 
-- Dataset created using Roboflow
+- Dataset created, Train/Test Split, Preprocessing, and Augmentation using Roboflow
 - Trained and tested using Ultralytics YOLOv8
